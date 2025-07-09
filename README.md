@@ -17,7 +17,7 @@
 If you have questions or feedback, reach out at:  
 **BofaDapp@proton.me**
 
-Privacy Policy: [View here](https://yourusername.github.io/Bofad/PRIVACY)
+Privacy Policy: [View here](https://bofadapp.github.io/Bofad/PRIVACY)
 
 ---
 
