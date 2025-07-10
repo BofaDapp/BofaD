@@ -1,21 +1,36 @@
 # Bofad – Private Crypto Portfolio Tracker
 
-**Bofad** is a lightweight, privacy-respecting crypto portfolio tracker built for individuals who want total control over their data.
+BofaD is a fast, lightweight crypto portfolio tracker built for people who value privacy and control.
 
--  100% local data storage – nothing leaves your device
--  No accounts, no ads, no tracking
--  Live CoinGecko prices with 24h performance
--  Clean UI with light/dark theme toggle
--  Export portfolio to clipboard at any time
+Manually enter your crypto holdings — Bitcoin, Ethereum, Monero, and more — and BofaD will show you the current total value of your portfolio, live from CoinGecko.
 
-> Available now on Android
+No sign-ups. No ads. No analytics. No cloud. Your data is stored 100% locally on your device and never leaves it.
 
----
+You do not need to connect your wallet or link any crypto addresses. BofaD is completely offline — it’s not tied to your real holdings in any way.
+ Key Features:
 
-##  Support
+    Track the total USD value of all your crypto assets
 
-If you have questions or feedback, reach out at:  
-**BofaDapp@proton.me**
+    Supports any CoinGecko listed token via symbol lookup (e.g. BTC, ETH, XMR)
+
+    Local-only storage — nothing is sent or synced online
+
+    No wallet linking or account setup required
+
+    See how each token’s value has changed since you last updated its amount
+
+    Fully private: no tracking, no ads, no user data collected
+
+    Clean design with light & dark mode support
+
+Whether you're a casual HODLer or a privacy-first investor, BofaD helps you stay on top of your holdings — without the bloat, noise, or surveillance of other apps.
+
+ Note: BofaD is not intended to replace advanced portfolio or trading tools. It’s a lightweight, private supplement — ideal for quickly and discreetly checking your portfolio’s value and general trends on the go.
+
+ Price data and token info powered by CoinGecko.
+ BofaD does not offer trading, wallet access, financial advice, or online sync.
+
+ We're continuing to improve BofaD with new features while keeping it fast, simple, and fully local.
 
 Privacy Policy: [View here](https://bofadapp.github.io/BofaD/PRIVACY)
 
